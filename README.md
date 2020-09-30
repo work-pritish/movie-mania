@@ -1,5 +1,5 @@
 # MOVIE-MANIA
-![alt text](https://cdn-hk.wds168.cn/comdata/6480734/201905/20190520081850c5d42b.gif )
+![alt text](https://i.pinimg.com/originals/b2/7f/04/b27f042c25160f17433e191c3f7a1a47.gif)
 
 
 ##### This is a machine learning based movie recommendation system which predicts the movies that a user might like based on their previously watched movie history and other users' reviews and ratings. We have imbedded this system in a website called Movie Mania
